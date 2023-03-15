@@ -1,4 +1,4 @@
-# Gong
+# Gong!
 
 System for playing gong sounds in multiple locations. Managed using [balenaCloud](https://www.balena.io/cloud).
 
